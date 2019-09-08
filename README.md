@@ -6,7 +6,7 @@
 *It is a simple Django based website project that combines both front-end and back-end technologies to provide an interface to the user where he can get information about his Github account on entering his Github username*
 
 
-##DETAILED DESCIPTION
+## DETAILED DESCIPTION
 
 The Github username supplied by the user is sent to the external github API 
 '''https://api.github.com/search/users'''.
