@@ -26,7 +26,6 @@ From the obtained JSON data, "username","blog_url" and "score" is displayed to t
 1. Activate this virtual environment using the command ```./Scripts/activate```. The name of your virtual environment will now appear on the left side of terminal. 
 1. Install django using ```pip install django==3.9.4```.
 1. Install django rest framework using ```pip install djangorestframework==3.7.3```.
-1. Install Python's requests module using ```pip install requests```.
+1. Install Python's requests module using ```pip install requests```
 
-![form field](https://user-images.githubusercontent.com/44895092/64491532-4dd91100-d287-11e9-9b78-ce244a39adec.png)
-![output](https://user-images.githubusercontent.com/44895092/64491368-9bed1500-d285-11e9-86c5-63e78aba34ff.jpg)
+
