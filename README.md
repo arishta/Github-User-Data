@@ -29,3 +29,4 @@ From the obtained JSON data, "username","blog_url" and "score" is displayed to t
 1. Install Python's requests module using ```pip install requests```
 
 
+![pic1](https://user-images.githubusercontent.com/44895092/64491659-cab8ba80-d288-11e9-9cda-0ed833e08966.jpg)
