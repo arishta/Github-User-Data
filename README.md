@@ -12,13 +12,13 @@ The Github username supplied by the user is sent to the external github API
 From the obtained JSON data, "username","blog_url" and "score" is displayed to the user.
 
 
-## Technologies used
+## TECHNOLOGIES USED
 
 1. Django 2.2.4,Django Rest Framework 3.10.2
 
 1. Python (Django framework uses Python) 3.7.3
 
-## How to set up the project
+## HOW TO SET UP THE PROJECT
 
 1. Install Python from this link from here :https://www.python.org/downloads/
 1. On terminal, type ```pip install virtualenv``` to install virtual environment.
