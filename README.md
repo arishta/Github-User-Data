@@ -31,6 +31,7 @@ From the obtained JSON data, "username","blog_url" and "score" is displayed to t
 ## HOW TO RUN THE PROJECT
 1. In cmd , go to the project directory and type the command 'python manage.py runserver'.
 1. Type the url 'http://127.0.0.1:8000/search/user' in browser.
+1. Enter the 'username' you want to search and hit the 'Get Data' button.
 
 
 ![pic1](https://user-images.githubusercontent.com/44895092/64491659-cab8ba80-d288-11e9-9cda-0ed833e08966.jpg)
