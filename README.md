@@ -28,5 +28,9 @@ From the obtained JSON data, "username","blog_url" and "score" is displayed to t
 1. Install django rest framework using ```pip install djangorestframework==3.7.3```.
 1. Install Python's requests module using ```pip install requests```
 
+## HOW TO RUN THE PROJECT
+1. In cmd , go to the project directory and type the command 'python manage.py runserver'.
+1. Type the url 'http://127.0.0.1:8000/search/user' in browser.
+
 
 ![pic1](https://user-images.githubusercontent.com/44895092/64491659-cab8ba80-d288-11e9-9cda-0ed833e08966.jpg)
