@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-*It is a simple Django based website project that combines both front-end and back-end technologies to provide an interface to the user where he can get information about his Github account on entering his Github username*
+*It is a simple Django based website that combines both front-end and back-end technologies to provide an interface to the user where he can get information about his Github account on entering his Github username*
 
 
 ## DETAILED DESCIPTION
